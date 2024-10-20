@@ -1,0 +1,15 @@
+#p1{
+    margin: 20px;
+    padding: 50px;
+    border: dotted;
+    background-color: rgb(116, 116, 143);
+}
+#p2{
+    /* margin: 200px; */
+    margin: 25px;
+    border:dashed;
+    border-color: brown;
+    padding: 50px;
+    background-color: aqua;
+    
+}
