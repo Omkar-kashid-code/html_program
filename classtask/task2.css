@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(147, 170, 206);
+}
+.navigator{
+    background-color: pink;
+    height: 20px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px; 
+}
+.a{
+    margin-left: 800px;
+}
+.content{
+    display: flex;
+    padding: 40px;
+}
+.box1{
+    border: 1px solid grey;
+    width: 1000px;
+    height: 200px;
+    margin-right: 100px;
+}

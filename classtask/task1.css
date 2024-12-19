@@ -1,0 +1,61 @@
+body{
+    background-color: pink;
+}
+.container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.box1{
+   border: 1px solid red;
+   width: 200px;
+    height: 150px;
+    margin-bottom: 10px;
+    background-color: red;
+}
+.box2{
+    border: 1px solid red;
+    width: 200px;
+    height: 150px;
+    background-color: red;
+ }
+ .container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+ }
+ .box3{
+    border: 1px solid red;
+    width: 200px;
+     height: 150px;
+     margin-bottom: 10px;
+     background-color: red;
+ }
+ 
+ .box4{
+    border: 1px solid red;
+    width: 200px;
+     height: 150px;
+     background-color: red;
+ }
+ .container3{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-evenly;
+}
+
+ .box5{
+    border: 1px solid red;
+    width: 200px;
+     height: 150px;
+     background-color: red;
+ }
+ .box6{
+    border: 1px solid red;
+    width: 200px;
+     height: 150px;
+     background-color: red;
+ }
+ 

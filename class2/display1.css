@@ -1,0 +1,36 @@
+.lang-counter{
+    border: 1px solid black;
+    margin: 100px;
+    position: relative;
+   
+}
+
+.box1{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: relative;
+   
+}
+
+
+.box2{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: fixed;
+    top: 20px;
+    left: 30px;
+}
+
+.box3{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: sticky;
+    top: 80px;
+    left: 80px;
+}
